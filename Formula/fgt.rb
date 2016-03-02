@@ -1,8 +1,8 @@
 class Fgt < Formula
   desc "C++ library for fast Gauss transforms"
   homepage "https://gadomski.github.io/fgt"
-  url "https://github.com/gadomski/fgt/archive/v0.4.0.tar.gz"
-  sha256 "4aa8208c0f9cce6c22d875d82679e22990d0c6a5e678be5c679423919aebe9b9"
+  url "https://github.com/gadomski/fgt/archive/v0.4.1.tar.gz"
+  sha256 "3e1b77bf9ed8699588115609c6441bf23d37be70d25552d4498924876c50a554"
   head "https://github.com/gadomski/fgt.git"
 
   depends_on "cmake" => :build
