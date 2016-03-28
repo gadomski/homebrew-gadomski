@@ -11,5 +11,5 @@ brew tap gadomski/gadomski
 Then install:
 
 ```sh
-brew install gadomski/gadomski/fgt
+brew install gadomski/gadomski/cpd
 ```
