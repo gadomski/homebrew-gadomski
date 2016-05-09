@@ -1,8 +1,8 @@
 class Cpd < Formula
   desc "Coherent Point Drift: point set registration"
   homepage "https://gadomski.github.io/cpd"
-  url "https://github.com/gadomski/cpd/archive/v0.3.2.tar.gz"
-  sha256 "b2446c216b8f680ffe31956178a5ab40effbd169b0be96cb10efdecdc6993f2c"
+  url "https://github.com/gadomski/cpd/archive/v0.3.3.tar.gz"
+  sha256 "2507851aa8096265e842551a90c7658d19736ec6fdf2fe496491c93b760253ba"
   head "https://github.com/gadomski/cpd.git"
 
   depends_on "cmake" => :build
