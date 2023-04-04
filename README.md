@@ -2,14 +2,16 @@
 
 [Homebrew](http://brew.sh/) formulae for my personal projects.
 
-Tap it:
+## Usage
 
-```sh
-brew tap gadomski/gadomski
+To install my [Rust STAC cli](https://github.com/gadomski/stac-rs):
+
+```shell
+brew install gadomski/gadomski/stac
 ```
 
-Then install:
+Then, to see the available commands:
 
-```sh
-brew install gadomski/gadomski/cpd
+```shell
+stac --help
 ```
