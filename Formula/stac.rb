@@ -1,8 +1,8 @@
 class Stac < Formula
   desc "Command line interface for working with STAC data and servers, written in Rust"
   homepage "https://github.com/stac-utils/stac-rs"
-  url "https://github.com/stac-utils/stac-rs/archive/refs/tags/stac-cli-v0.0.7.tar.gz"
-  sha256 "e10336433d96d6674dbc066652cbc4dfe0d3b040c601e98729e451f6092e1d60"
+  url "https://github.com/stac-utils/stac-rs/archive/refs/tags/stac-cli-v0.0.8.tar.gz"
+  sha256 "2d4edf43ac74c5b0f2cee3c2f5f8ccf0029a84f2efecdaee13d07ecd902f5a3e"
   license "MIT OR Apache-2.0"
 
   depends_on "rust" => :build
